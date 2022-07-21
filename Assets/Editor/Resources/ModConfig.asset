@@ -11,15 +11,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: Tetramorse
-  title: Tetramorse
-  author: ferd
+  id: TrimorseMod
+  title: Trimorse
+  author: ferd, VFlyer
   description: 'MMMMOOOORRRRSSSSEEEE CCCCOOOODDDDEEEE
 
+    or I guess, EMOMSEOERRROREMOSSMS EECODDCCOODOECED, since it''s all messed up.
 
-    Tetramorse Module, by ferd
 
-    Module ID: Tetramorse'
+    Original module by ferd
+
+    Modified variant, by VFlyer
+
+    Module ID: Trimorse'
   version: 1.0
   outputFolder: build
-  previewImage: {fileID: 2800000, guid: 83aa33d72746aac4fbe87e6d95e265a6, type: 3}
+  previewImage: {fileID: 0}
